@@ -1,7 +1,7 @@
 
 # 网易云音乐下载器
 
-![logo](https://cdn.luogu.com.cn/upload/image_hosting/3fv61nju.png)
+![logo](https://pollen-z.github.io/images/LOGO-removebg-preview.png)
 
 ### 网站效果图
 
