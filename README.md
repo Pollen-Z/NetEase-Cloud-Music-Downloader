@@ -6,9 +6,7 @@
 
 ### 网站效果图
 
-[![网站效果图](https://pollen-z.github.io/Website.png)
-
-<p align="center"><b>Halo</b> [ˈheɪloʊ]，一款现代化的开源博客/CMS系统，值得一试。</p>
+![网站效果图](https://pollen-z.github.io/Website.png)
 
 ------------------------------
 
