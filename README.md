@@ -7,8 +7,8 @@
 
 
 <p align="center">
-    <a href="https://halo.run" target="_blank" rel="noopener noreferrer">
-        <img width="100" src="https://halo.run/logo" alt="Halo logo" />
+    <a href="https://haoranzing.rth1.one/" target="_blank" rel="noopener noreferrer">
+        <img width="100" src="[https://cdn.luogu.com.cn/upload/image_hosting/trjrjkco.png" alt="logo" />
     </a>
 </p>
 
