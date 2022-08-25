@@ -2,7 +2,7 @@
 # 网易云音乐下载器
 
 <p align="center">
-    <img width="80" src="https://pollen-z.github.io/images/LOGO-removebg-preview.png" alt="logo" />
+    <img width="80" src="https://pollen-z.github.io/images/LOGO-" alt="logo" />
 </p>
 
 ### 网站效果图
