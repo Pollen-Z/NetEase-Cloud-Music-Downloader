@@ -1,13 +1,12 @@
-
-# 网易云音乐下载器
-
 <p align="center">
     <img width="100" src="https://Pollen-Z.github.io/images/LOGO-.png" alt="logo" />
 </p>
 
+<p align="center"><b>HaoranZing</b> 网易云音乐下载器，值得一试。</p>
+
 ### 网站效果图
 
-[![网站效果图](https://pollen-z.github.io/Website.png "网站")](https://pollen-z.github.io/Website.png "网站")
+[![网站效果图](https://pollen-z.github.io/Website.png)
 
 <p align="center"><b>Halo</b> [ˈheɪloʊ]，一款现代化的开源博客/CMS系统，值得一试。</p>
 
