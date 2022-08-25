@@ -16,7 +16,7 @@
 
 ## 许可证
 
-[![license](https://img.shields.io/github/license/hal-dev/hal.svg?style=flat-square)](https://github.com/halo-dev/halo/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/halo-dev/halo.svg?style=flat-square)](https://github.com/halo-dev/halo/blob/master/LICENSE)
 
 "网易云音乐下载器" 使用 GPL-v3.0 协议开源，请遵守开源协议。
 
