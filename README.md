@@ -2,11 +2,11 @@
     <img width="100" src="https://Pollen-Z.github.io/images/LOGO-.png" alt="logo" />
 </p>
 
-<p align="center"><b>HaoranZing</b> 网易云音乐下载器，值得一试。</p>
+<p align="center"><b>HaoranZing </b> 网易云音乐下载器，值得一试。</p>
 
 ### 网站效果图
 
-![网站效果图](https://pollen-z.github.io/Website.png)
+![网站效果图](https://pollen-z.github.io/images/Website.png)
 
 ------------------------------
 
