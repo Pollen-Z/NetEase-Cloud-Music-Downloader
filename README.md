@@ -5,10 +5,9 @@
 
 [![网站效果图](https://pollen-z.github.io/Website.png "网站")](https://pollen-z.github.io/Website.png "网站")
 
-
 <p align="center">
     <a href="https://haoranzing.rth1.one/" target="_blank" rel="noopener noreferrer">
-        <img width="100" src="https://cdn.luogu.com.cn/upload/image_hosting/trjrjkco.png" />
+        <img width="100" src="https://cdn.luogu.com.cn/upload/image_hosting/3fv61nju.png" />
     </a>
 </p>
 
