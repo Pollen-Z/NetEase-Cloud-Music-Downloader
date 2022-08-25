@@ -1,3 +1,4 @@
+![AUR license](https://img.shields.io/aur/license/HaoranZing?style=flat-square)
 # 网易云音乐下载器
 体验地址：[https://pollen-z.github.io/](Pollen-Z.github.io "体验地址：")
 
@@ -28,10 +29,6 @@
 </p>
 
 ------------------------------
-
-## 快速开始
-
-详细部署文档请查阅：<https://docs.halo.run>
 
 ## 在线体验
 
