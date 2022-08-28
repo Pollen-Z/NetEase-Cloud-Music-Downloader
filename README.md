@@ -28,7 +28,7 @@
 
 ## 🏄 在线体验
 
-- 环境地址：https://pollen-z.github.io/
+- 环境地址：https://pollen-z.github.io/  (加载速度可能有点慢)
 
 ## 💫 网站效果图
 
